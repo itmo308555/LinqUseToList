@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LinqUseToList": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
